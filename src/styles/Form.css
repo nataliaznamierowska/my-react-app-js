@@ -8,19 +8,20 @@
 .select {
   padding: 10px;
   margin: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   width: 100%;
   max-width: 300px;
 }
 
 .submit-btn {
-  background-color: #3d95ff;
-  color: white;
+  background-color: #ffffff;
+  color: #3d95ff;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
   border-radius: 5px;
   font-size: 1em;
+  font-weight: bold;
 }
 
 .submit-btn:hover {
