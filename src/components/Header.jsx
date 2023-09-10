@@ -3,7 +3,7 @@ import "../styles/Header.css";
 const Header = () => {
   return (
     <div className="header">
-      <h1 className="title">PRZELICZNIK WALUT</h1>
+      <h1 className="title">Przelicznik walut</h1>
     </div>
   );
 };
